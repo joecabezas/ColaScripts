@@ -1,5 +1,5 @@
 Si este archivo se ve mal en Bloc de Notas (Notepad), deja de usarlo y consigue Notepad++
-o ve este documento on-line en: http://github.com/joecabezas/ColaScripts/raw/master/README.txt
+o ve este documento on-line en: http://github.com/joecabezas/ColaScripts/raw/master/LEEME.txt
 
 ====================================================================
 ColaScripts README
@@ -32,10 +32,13 @@ Instalación
 Changelog
 
 	version 23 04 2011
+		*Cambio de nombre archivo README.txt, ahora se llama LEEME.txt, planeo hacer una version
+		en ingles
+
 		*Actualizado README.txt
 		
-		*TF2_binds.txt: acusar SPY con la tecla V, ahora viene desactivado ya que sobreescribia el valor
-		por defecto de chat de voz con la misma tecla
+		*TF2_binds.txt: acusar SPY con la tecla V, ahora viene desactivado (comentado) )ya que
+		sobreescribia el valor por defecto de chat de voz con la misma tecla
 
 	version 10 01 2011
 		*Primera version del changelog (aca se escribiran los cambios en cada version)
