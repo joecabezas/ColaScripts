@@ -1,5 +1,5 @@
 Si este archivo se ve mal en Bloc de Notas (Notepad), deja de usarlo y consigue Notepad++
-o ve este documento on-line en: https://github.com/joecabezas/ColaScripts/raw/master/README.txt
+o ve este documento on-line en: http://github.com/joecabezas/ColaScripts/raw/master/README.txt
 
 ====================================================================
 ColaScripts README
