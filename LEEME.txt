@@ -31,6 +31,13 @@ Instalación
 
 Changelog
 
+	version 06 05 2011
+		*Se agregaron teclas por defecto para estar al dia con el "Replay Update":
+			Nuevas teclas por defecto:
+				- F6 = grabar replay
+				- H = Item Slot, para usar taunts alternativos o items
+
+
 	version 24 04 2011
 		*MEDIC: Ahora anuncia las uber falsas por chat de equipo
 
