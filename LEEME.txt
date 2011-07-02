@@ -30,7 +30,12 @@ Instalación
 		Copiar la carpeta "cfg/" a la carpeta <tf> y reemplazar todo
 
 Changelog
-
+	
+	version 02 07 2011
+		*Engineer: modo por defecto ahora es Switch Mode
+		*Demoman: deprecado habilidad de girar con targe
+		*Heavy: removido comando para botar sandwich
+				
 	version 06 05 2011
 		*Se agregaron teclas por defecto para estar al dia con el "Replay Update":
 			Nuevas teclas por defecto:

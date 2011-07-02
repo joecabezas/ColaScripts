@@ -31,6 +31,11 @@ Instalación
 
 Changelog
 
+	version 02 07 2011
+		*Engineer: modo por defecto ahora es Switch Mode
+		*Demoman: deprecado habilidad de girar con targe
+		*Heavy: removido comando para botar sandwich
+
 	version 24 04 2011
 		*MEDIC: Ahora anuncia las uber falsas por chat de equipo
 
