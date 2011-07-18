@@ -48,7 +48,7 @@ Changelog
 		en ingles
 
 		*Actualizado README.txt
-		
+
 		*TF2_binds.txt: acusar SPY con la tecla V, ahora viene desactivado (comentado) )ya que
 		sobreescribia el valor por defecto de chat de voz con la misma tecla
 
