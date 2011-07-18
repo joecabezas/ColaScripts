@@ -31,6 +31,19 @@ Instalación
 
 Changelog
 
+	version 18 07 2011
+		Nueva reestructuracion de botones para el pyro, y nueva habilidad del medic: Medic Radar
+
+		*Pyro:
+			mouse3: ahora es Automelee
+			shift: Panic Button
+		*Medic:
+			shift: Medic Radar
+
+			Medic Radar: presionando shift aumenta el porcentaje minimo a 150 (maxima salud posible)
+			haciendo que todos los aliados cercanos llamen medico automaticamente, permitiendo al medico
+			ver donde hay gente cerca para cuando se quede solo.
+
 	version 02 07 2011
 		*Engineer: modo por defecto ahora es Switch Mode
 		*Demoman: deprecado habilidad de girar con targe
