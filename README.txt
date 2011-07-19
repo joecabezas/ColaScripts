@@ -31,6 +31,13 @@ Instalación
 
 Changelog
 
+	version 19 07 2011
+		*Pequeños cambios en la estructura de TF2 binds, para mouse de 5 botones
+
+		*Actualizado README.txt
+
+		*Se comento toda la seccion de PREC (POV RECORD), el que tenga el plugin que lo descomente si quiere
+
 	version 18 07 2011
 		Nueva reestructuracion de botones para el pyro, y nueva habilidad del medic: Medic Radar
 
@@ -40,7 +47,7 @@ Changelog
 		*Medic:
 			shift: Medic Radar
 
-			Medic Radar: presionando shift aumenta el porcentaje minimo a 150 (maxima salud posible)
+			Medic Radar: presionando shift aumenta el porcentaje minimo para auto llamar medic a 150% (maxima salud posible)
 			haciendo que todos los aliados cercanos llamen medico automaticamente, permitiendo al medico
 			ver donde hay gente cerca para cuando se quede solo.
 
@@ -48,6 +55,13 @@ Changelog
 		*Engineer: modo por defecto ahora es Switch Mode
 		*Demoman: deprecado habilidad de girar con targe
 		*Heavy: removido comando para botar sandwich
+
+	version 06 05 2011
+		*Se agregaron teclas por defecto para estar al dia con el "Replay Update":
+			Nuevas teclas por defecto:
+				- F6 = grabar replay
+				- H = Item Slot, para usar taunts alternativos o items
+
 
 	version 24 04 2011
 		*MEDIC: Ahora anuncia las uber falsas por chat de equipo
