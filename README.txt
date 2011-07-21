@@ -31,6 +31,12 @@ Instalación
 
 Changelog
 
+	version 20 07 2011
+		*Actualizacion para compatibilidad con la nueva arma de Soldier, "Cow Mangler 5000"
+			(http://wiki.teamfortress.com/wiki/Cow_Mangler_5000)
+		
+		*Se agrego configuraciones para red, para resolver problemas de lag en algunos servidores
+
 	version 19 07 2011
 		*Pequeños cambios en la estructura de TF2 binds, para mouse de 5 botones
 
