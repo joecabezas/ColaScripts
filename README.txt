@@ -31,6 +31,12 @@ Instalación
 
 Changelog
 
+	version 20 07 2011(2)
+		*Se arreglo bug de incompatibilidad con rocketjump:
+			ahora las teclas son:
+				mouse2:			rocketjump
+				shift + mouse2:	charged fire (para arma nueva, Cow Mangler 5000)
+	
 	version 20 07 2011
 		*Actualizacion para compatibilidad con la nueva arma de Soldier, "Cow Mangler 5000"
 			(http://wiki.teamfortress.com/wiki/Cow_Mangler_5000)
