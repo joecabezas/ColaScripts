@@ -34,7 +34,10 @@ Changelog
 	version 23 07 2011 (2)
 		*Se agregaron 2 sets de configs de video para aumentar la calidad y/o los FPS (frames per second)
 			*ChrisConfig:	http://www.fakkelbrigade.eu/chris/configs/
-			*ColaGraphics:	Creados por usuario "ElChorizo" //http://steamcommunity.com/id/mascool7/
+			*ColaGraphics:	Creados por usuario "ElChorizo"
+		
+		*Agradecimientos a "ElChorizo" por prestarme el arma y despues probar las scripts
+			http://steamcommunity.com/id/mascool7/
 
 	version 23 07 2011
 		*Se agregó hud_combattext 1 (muestra cantidad de daño hecho sobre el enemigo)
@@ -48,6 +51,9 @@ Changelog
 			ahora las teclas son:
 				mouse2:			rocketjump
 				shift + mouse2:	charged fire (para arma nueva, Cow Mangler 5000)
+				
+		*Agradecimientos a "GrUnTs" por prestarme el arma y despues probar las scripts
+			http://steamcommunity.com/profiles/76561197978410408/
 
 	version 20 07 2011
 		*Actualizacion para compatibilidad con la nueva arma de Soldier, "Cow Mangler 5000"
