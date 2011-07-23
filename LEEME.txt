@@ -31,16 +31,23 @@ Instalación
 
 Changelog
 
+	version 23 07 2011
+		*Se agregó hud_combattext 1 (muestra cantidad de daño hecho sobre el enemigo)
+
+		*Se agregó hitsound (dingaling) tf_dingalingaling 1 (reproduce un sonido al hacer daño)
+			*Además se dejo comentado los comandos necesarios para cambiar el pitch (tono)
+			pero quedó comentado para que lo modifiquen los usuarios avanzados que lo quieran (cfg/TF2_binds.cfg)
+
 	version 20 07 2011(2)
 		*Se arreglo bug de incompatibilidad con rocketjump:
 			ahora las teclas son:
 				mouse2:			rocketjump
 				shift + mouse2:	charged fire (para arma nueva, Cow Mangler 5000)
-	
+
 	version 20 07 2011
 		*Actualizacion para compatibilidad con la nueva arma de Soldier, "Cow Mangler 5000"
 			(http://wiki.teamfortress.com/wiki/Cow_Mangler_5000)
-		
+
 		*Se agrego configuraciones para red, para resolver problemas de lag en algunos servidores
 
 	version 19 07 2011
