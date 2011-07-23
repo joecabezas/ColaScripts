@@ -31,6 +31,11 @@ Instalación
 
 Changelog
 
+	version 23 07 2011 (2)
+		*Se agregaron 2 sets de configs de video para aumentar la calidad y/o los FPS (frames per second)
+			*ChrisConfig:	http://www.fakkelbrigade.eu/chris/configs/
+			*ColaGraphics:	Creados por usuario "ElChorizo" //http://steamcommunity.com/id/mascool7/
+
 	version 23 07 2011
 		*Se agregó hud_combattext 1 (muestra cantidad de daño hecho sobre el enemigo)
 
