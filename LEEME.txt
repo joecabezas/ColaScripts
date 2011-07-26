@@ -31,6 +31,11 @@ Instalación
 
 Changelog
 
+	version 23 07 2011
+		*Cambios al Sniper (sniper.cfg) sugerencia de usuario "Babilonia.!" http://steamcommunity.com/id/UnrealZero/:
+			*Sensibilidad con zoom cambiada de 50% a 80%
+			*Se reestablecion comportamiento normal de la tecla "Q" (weapon switch) para permitir jugar con razorback (escudo)
+
 	version 23 07 2011 (2)
 		*Se agregaron 2 sets de configs de video para aumentar la calidad y/o los FPS (frames per second)
 			*ChrisConfig:	http://www.fakkelbrigade.eu/chris/configs/
