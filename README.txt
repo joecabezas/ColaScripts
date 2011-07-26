@@ -1,4 +1,4 @@
-Si este archivo se ve mal en Bloc de Notas (Notepad), deja de usarlo y consigue Notepad++
+﻿Si este archivo se ve mal en Bloc de Notas (Notepad), deja de usarlo y consigue Notepad++
 o ve este documento on-line en: http://github.com/joecabezas/ColaScripts/raw/master/LEEME.txt
 
 ====================================================================
@@ -31,7 +31,7 @@ Instalación
 
 Changelog
 
-	version 23 07 2011
+	version 25 07 2011
 		*Cambios al Sniper (sniper.cfg) sugerencia de usuario "Babilonia.!" http://steamcommunity.com/id/UnrealZero/:
 			*Sensibilidad con zoom cambiada de 50% a 80%
 			*Se reestablecion comportamiento normal de la tecla "Q" (weapon switch) para permitir jugar con razorback (escudo)
