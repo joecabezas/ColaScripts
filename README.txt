@@ -31,6 +31,49 @@ Instalación
 
 Changelog
 
+	version 26 07 2011
+		*La update de hoy, son cambios sugeridos por usuario "Babilonia.!" http://steamcommunity.com/id/UnrealZero/:
+		
+		*TF2_binds:
+			*Se agregó tecla "n" que viene con el juego para abrir mochila
+			*Se agrego un bind nuevo, "TECLA SPECIAL para uso en alguna clases":
+				*bind "shift"	"colascripts_special"
+		
+		*Esta nueva TECLA SPECIAL sera usada por distintas clases para hacer una habilidad especial
+		que actualmente estaba siendo activada con la tecla SHIFT.
+			Pero ahora, se ha normalizado todo para que sea mas facil usar la tecla SHIFT para otras
+		cosas, ya que algunos usuarios preguntaban	como hacer para poder agacharse con la tecla SHIFT,
+		haciendo muy dificil editar las scritps para lograr eso.
+			Ahora es mas simple, solo deben editar 1 archivo (TF2_binds.cfg) donde dice:
+				bind "shift"	"colascripts_special"
+		Con eso podran bindear la TECLA SPECIAL a cualquier otra, y usar el SHIFT para cualquier otra cosa,	como agacharse.
+
+		*demoman.cfg:
+			*Se elimino habilidad "Turn Charge", estaba comentada de todos modos, ya no es necesaria
+		
+		*engineer.cfg:
+			*adaptacion a TECLA SPECIAL
+			*TECLA SPECIAL = activar "construccion rapida"
+
+		*medic.cfg:
+			*adaptacion a TECLA SPECIAL
+			*TECLA SPECIAL = activar "medic radar"
+
+		*pyro.cfg
+			*adaptacion a TECLA SPECIAL
+			*TECLA SPECIAL = activar "boton de panico"
+
+		*scout.cfg:
+			*adaptacion a TECLA SPECIAL
+			*se elimino modo para activar FANJUMP, ahora se hace con la TECLA SPECIAL
+			*TECLA SPECIAL = ejecutar un "FANJUMP"
+
+		*soldier.cfg:
+			*adaptacion a TECLA SPECIAL
+			*nueva distribucion de teclas, para adaptarse a la TECLA SPECIAL:
+				*mouse2 = rocket jump
+				*TECLA SPECIAL (shift por defecto) = disparo cargado con la "Cow Mangler 5000"
+			
 	version 25 07 2011
 		*Cambios al Sniper (sniper.cfg) sugerencia de usuario "Babilonia.!" http://steamcommunity.com/id/UnrealZero/:
 			*Sensibilidad con zoom cambiada de 50% a 80%
