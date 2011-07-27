@@ -31,6 +31,14 @@ Instalación
 
 Changelog
 
+	version 27 07 2011
+		*La update de hoy es para corregir algunos bugs en soldier, engineer, y medic que detectó el usuario "Shark" http://steamcommunity.com/profiles/76561198040769814/
+		
+		*Corregidos bugs en el "Cola Quick Voice Commands", de soldier, engineer, y medic, y además pyro que no habia
+		sido detectado.
+		
+		*se removio archivo sobrante: "cola_ultra_graphics.cfg", ya que esta duplicado en la carpeta "cola_graphics/"
+	
 	version 26 07 2011
 		*La update de hoy, son cambios sugeridos por usuario "Babilonia.!" http://steamcommunity.com/id/UnrealZero/:
 		
@@ -73,7 +81,7 @@ Changelog
 			*nueva distribucion de teclas, para adaptarse a la TECLA SPECIAL:
 				*mouse2 = rocket jump
 				*TECLA SPECIAL (shift por defecto) = disparo cargado con la "Cow Mangler 5000"
-			
+
 	version 25 07 2011
 		*Cambios al Sniper (sniper.cfg) sugerencia de usuario "Babilonia.!" http://steamcommunity.com/id/UnrealZero/:
 			*Sensibilidad con zoom cambiada de 50% a 80%
