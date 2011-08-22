@@ -29,6 +29,19 @@ Instalación
 	paso 1
 		Copiar la carpeta "cfg/" a la carpeta <tf> y reemplazar todo
 
+Opciones de lanzamiento:
+
+	-console -novid -window -w 1920 -h 1080 -noborder -high -autoconfig
+
+	-console:	activa consola
+	-novid	:	desactiva video de inicio
+	-window	:	activa modo ventana
+	-w <n>	:	hace que el juego se abra con un ancho de <n> pixeles
+	-h <m>	:	hace que el juego se abra con un alto de <m> pixeles
+	-noborder:	hace que en modo ventana, no tenga bordes
+	-high	:	aumenta prioridad en el sistema operativo
+	-autoconfig:	resetea opciones de video (ideal si ocupas configs de video)
+
 Changelog
 
 	version 27 07 2011
