@@ -44,6 +44,9 @@ Opciones de lanzamiento:
 
 Changelog
 
+	version 25 08 2011
+		*Arreglado bug detectado por GrUnTs, al desactivar auto reload en el soldier
+
 	version 27 07 2011
 		*La update de hoy es para corregir algunos bugs en soldier, engineer, y medic que detectó el usuario "Shark" http://steamcommunity.com/profiles/76561198040769814/
 		
