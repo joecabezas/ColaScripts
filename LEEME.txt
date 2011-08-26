@@ -44,6 +44,28 @@ Opciones de lanzamiento:
 
 Changelog
 
+	version 26 08 2011
+		*Mayor Update:
+			*Ahora Colascripts es compatible con configuraciones de mouse personalizadas
+			
+			*Si quieren usar su propia config de mouse, deben crear este archivo config:
+				cfg/mouse_configs/mouse.cfg
+			
+			*Colascripts NO VIENE con un archivo "mouse.cfg", para asi hacer mas facil la actualziacion de colascripts
+			de esta manera sus configuraciones de mouse no se pierden al actualizar colascripts
+			
+			*Sugerencia: Pueden ocupar las plantillas para mouse de 3 y 5 botones que vienen en la carpeta:
+				cfg/mouse_configs/
+			
+			*Para usar una plantilla, simplemente deben elegir la que ams les acomode, modificarla a su gusto y luego
+			renombrarla a "mouse.cfg"
+			
+			*Creditos: GrUnTs por hacer el archivo plantilla "mouse_3_botones.cfg"
+			
+		*spy.cfg:
+			* Ahora el spy tiene el autoreload desactivado por defecto, ya que molesta mucho con el arma
+			* el Spy recarga arma con la tecla "r"
+	
 	version 25 08 2011
 		*Arreglado bug detectado por GrUnTs, al desactivar auto reload en el soldier
 
