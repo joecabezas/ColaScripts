@@ -44,6 +44,16 @@ Opciones de lanzamiento:
 
 Changelog
 
+	version 27 08 2011
+		*TF2_binds:
+			*se agregaron opciones nuevas para las net_graph ahora no debieran mostrarse
+			encima del contador de munición, y tambien se ve mas pequeño
+			
+		*engineer.cfg:
+			*Se agrego nueva funcion: "QUICK GUNSLINGER SENTRY", bindeada a la tecla "f"
+				al presionar y mantener presionada la tecla "f", el engy construirá una sentry
+				al soltar la tecla "f", el engy volverá al arma anterior (primaria o secundaria)
+		
 	version 26 08 2011
 		*Mayor Update:
 			*Ahora Colascripts es compatible con configuraciones de mouse personalizadas
