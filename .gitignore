@@ -1,0 +1,13 @@
+//TF2 auto generated configs
+cfg/config.cfg
+cfg/config_arena.cfg
+cfg/motd_entries.txt
+cfg/replay.cfg
+cfg/replay_ftp.cfg
+cfg/replay_local_http.cfg
+cfg/server_blacklist.txt
+cfg/sixense_bindings.cfg
+
+//Mouse user config
+//shall not be part of Colascripts
+cfg/mouse_configs/mouse.cfg
