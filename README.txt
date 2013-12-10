@@ -1,4 +1,4 @@
-﻿Si este archivo se ve mal en Bloc de Notas (Notepad), deja de usarlo y consigue Notepad++
+﻿Si este archivo se ve mal en Bloc de Notas (Notepad), deja de usarlo y consigue "Sublime Text 2"
 o ve este documento on-line en: http://github.com/joecabezas/ColaScripts/raw/master/LEEME.txt
 
 ====================================================================
@@ -19,7 +19,9 @@ Glosario
 
 	<tf>:		Carpeta "tf/" del juego, normalmente está ubicada en:
 					Windows:
-						C:\Program Files\Steam\steamapps\<usuario>\team fortress 2\tf\cfg
+						C:\Program Files\Steam\steamapps\<usuario>\team fortress 2\tf\
+					Mac:
+						/Users/<usuario>/Library/Application Support/Steam/SteamApps/common/Team Fortress 2/tf/
 
 Instalación
 
